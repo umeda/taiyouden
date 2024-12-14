@@ -59,6 +59,6 @@ tinycss==0.4
 ubuntu-drivers-common==0.0.0
 ufw==0.36
 Unidecode==1.0.22
-urllib3==1.26.18
+urllib3==1.26.19
 virtualenv==15.1.0
 xkit==0.0.0
